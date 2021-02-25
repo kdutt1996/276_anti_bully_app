@@ -1,0 +1,1 @@
+This file is uploaded to the Gitlab repository just to test that the repository works properly and files can be pushed there.
